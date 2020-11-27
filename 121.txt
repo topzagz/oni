@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 abc
 =======
 be sure to subsrc
